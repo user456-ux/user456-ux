@@ -1,5 +1,6 @@
-##  <div align="center"> 🌎 Welcome to my repo 🌎 </div> 
+##  <div align="center"> 🌎 Welcome to my repo 🌎 </div>  </br>
 
+</br>
 <table style="border: none; width: "100%">
   <tr>
     <td>  <div align="center"> ~ All about programming ~  </div>  </br></br>
