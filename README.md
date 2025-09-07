@@ -1,13 +1,25 @@
-## Hi there 👋   
+##  <div align="center"> 🌎 Welcome to my repo 🌎 </div> 
 
-![alt text](https://user456-ux.github.io/hello-world/blob/profile.PNG)
+<table style="border: none; width: "100%">
+  <tr>
+    <td>  <div align="center"> ~ All about programming ~  </div>  </br></br>
+    <img style="float: ledt;" src="https://user456-ux.github.io/hello-world/blob/net10.jfif"></br>
+    <img style="float: ledt;" src="https://user456-ux.github.io/hello-world/blob/net9.jfif">
+    <img style="float: ledt;" src="https://user456-ux.github.io/hello-world/blob/ps7.jfif">
+    <td> <img style="float: right;" src="https://user456-ux.github.io/hello-world/blob/profile.PNG"> </td>
+  </tr>
+</table>
 
 
-</br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=user456-ux&theme=tokyonight&show_icons=true)
 
 ***
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=user456-ux&theme=tokyonight&show_icons=true)
+
+<!-- 
+https://stackoverflow.com/questions/14951321/how-to-display-html-content-in-github-readme-md
+https://github.com/gjtorikian/html-pipeline/blob/main/lib/html_pipeline/sanitization_filter.rb
+-->
+
 <!--
 **user456-ux/user456-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
