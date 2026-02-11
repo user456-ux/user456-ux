@@ -12,9 +12,10 @@
 </table>
 
 
-
+<!--
 ***
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=user456-ux&theme=tokyonight&show_icons=true)
+-->
 
 <!-- 
 https://stackoverflow.com/questions/14951321/how-to-display-html-content-in-github-readme-md
