@@ -7,7 +7,7 @@
 > | Repository | Description | Level | URL |
 > | --------- | --------- | --------- | --------- |
 > | User456-ux| User Profile|Beginner| NA
-> | Simple-demo|MSDN Public SQL Downloads |Beginner | beginner's Demo](https://user456-ux.github.io/simple-demo/)
+> | Simple-demo|MSDN Public SQL Downloads |Beginner | [Beginner's Demo](https://user456-ux.github.io/simple-demo/)
 > | | | |
 > | Private-index-page|Password Protect Public Content |Intermediate| [Ajax Password](https://user456-ux.github.io/private-index-page/)
 > | Prometheus|Code Complexity Analyzer |Intermediate| NA
