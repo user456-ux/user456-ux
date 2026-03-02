@@ -4,10 +4,14 @@
 <table style="border: none; width: "100%">
   <tr>
     <td>  <div align="center"> ~ All about programming ~  </div>  </br></br>
-    <img style="float: ledt;" src="https://user456-ux.github.io/simple-demo/blob/net10.jfif"></br>
-    <img style="float: ledt;" src="https://user456-ux.github.io/simple-demo/blob/net9.jfif">
-    <img style="float: ledt;" src="https://user456-ux.github.io/simple-demo/blob/ps7.jfif">
-    <td> <img style="float: right;" src="https://user456-ux.github.io/simple-demo/blob/profile.PNG"> </td>
+    <img style="float: ledt;" src="https://user456-ux.github.io/simple-demo/blob/net.jfif">
+    <img style="float: ledt;" src="https://user456-ux.github.io/simple-demo/blob/net10.jpg">
+    <img style="float: ledt;" src="https://user456-ux.github.io/simple-demo/blob/ps_7.avif" width="318" height="218">
+    <img style="float: ledt;" src="https://user456-ux.github.io/simple-demo/blob/nodejs.jpg">
+  <!--  <td> <img style="float: right;" src="https://user456-ux.github.io/simple-demo/blob/profile.PNG"> </td> -->
+  </tr>
+  <tr>
+     <td> <img style="float: right;" src="https://user456-ux.github.io/simple-demo/blob/profile.PNG"> </td> 
   </tr>
 </table>
 
