@@ -12,7 +12,7 @@
 > | | | |
 > | Private-index-page|Password Protect Public Content |Intermediate| [Ajax Password](https://user456-ux.github.io/password-protect-ghStatic-page/)
 > | Prometheus|Python Code Complexity Analyzer |Intermediate | NA
-> | Ecommerce-Demo|Pure HTML, CSS & JS (no frameworks) |Intermediate |  [Ecommerce Demo](https://user456-ux.github.io/ecommerce-demo/)
+> | Ecommerce-Demo|Pure HTML, CSS & JS <br> (no frameworks) |Intermediate |  [Ecommerce Demo](https://user456-ux.github.io/ecommerce-demo/)
 
 <hr/>
 
