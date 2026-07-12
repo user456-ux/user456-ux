@@ -8,7 +8,7 @@
 > | --------- | --------- | --------- | --------- |
 > | User456-ux| User Profile|Beginner| NA
 > | Simple-demo|MSDN Public SQL Downloads |Beginner | [Beginner's Demo](https://user456-ux.github.io/simple-demo/)
-> | Next.js-react-beginnersguide|Intro for beginners |Beginner| NA
+> | Next.js-react-beginnersguide|Intro for Beginners |Beginner| NA
 > | | | |
 > | Private-index-page|Password Protect Public Content |Intermediate| [Ajax Password](https://user456-ux.github.io/password-protect-ghStatic-page/)
 > | Prometheus|Python Code Complexity Analyzer |Intermediate | NA
