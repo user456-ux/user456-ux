@@ -1,32 +1,41 @@
-##  <div align="center"> 🌎 Welcome to my repo 🌎 </div>  </br>
+##  <div align="center"> 🌎 This is my public repository intended for beginners looking to get started with GitHub Workflows, Actions, CI/CD and Application Programming. 🌎 </div>  </br>
 
 :snowflake:     Best viewed in your browser's <i>dark</i> theme.
 <br/><br/>
 
+> [!TIP]
+>Please note: these public Code Samples are $${\color{green}\text{intentionally kept simple}}$$
+> so the user can follow along without the need for extensive e 3rd party library knowledge or
+> experience with advanced framework integrations.
+> 
+> My private repositories are more advanced and accessible by invitation only.
+
+  
 > [!NOTE]
 > | Repository | Description | Level | URL |
 > | --------- | --------- | --------- | --------- |
+> ||&nbsp;&nbsp;&nbsp;&nbsp; $${\color{green}\text{GitHub Pages < user456-ux.github.io >}}$$||
 > | User456-ux|User Profile|Beginner| NA
 > | MSDN-downloads|MSDN Public SQL Downloads |Beginner | [Download Demo](https://user456-ux.github.io/MSDN-downloads/)
 > | Next.js-react-beginnersguide|Intro for Beginners |Beginner| NA
-> | | | |
 > | Private-index-page|Password Protect Public Content |Intermediate| [Ajax Password](https://user456-ux.github.io/password-protect-ghStatic-page/)
 > | Prometheus|Python Code Complexity Analyzer |Intermediate | NA
 > | Ecommerce-Demo|Pure HTML, CSS & JS <br> (no obtuse front-end technologies e.g. React/Vue/Angular) |Intermediate |  [Ecommerce Demo](https://user456-ux.github.io/ecommerce-demo/)
+> ||&nbsp;&nbsp;&nbsp;&nbsp; $${\color{green}\text{Personal Hosting  < protoco.net >}}$$||
 > | Self Hosted|Blazor .Net  - Showcasing interactive pages using pure server-side script generation with no reliance on embedded client-side javascript |Intermediate| [Blazor Interactivity Sample ](https://maxwell-portfolio.protoco.net//blazor_splash/indexTitle.htm)
 > | Azure Cloud|Blazor .Net  - Showcasing authentication, local browser storage and user session management |Intermediate| [Blazor Blog Sample](https://mytechblog-ghgwduagdzfcfrb8.canadacentral-01.azurewebsites.net/)
 > | | | <br>|
-> | Contact Details|Please email me for additional application demonstrations, contract opportunities or a copy of my current Resume|:email:|<a href="mailto:software.solutions@protoco.net?subject=free chocolate">Email Me</a>  |
+> | Contact Details|Please email me for additional application demonstrations, contract opportunities or a copy of my current Resume|:email:|<a href="mailto:software.solutions@protoco.net?subject=GitHub Correspondence">Email Me</a>  |
 
 <hr/>
 
-<table style="border: none; width: "100%">
+<table style="border: none; width: 100%">
   <tr>
     <td>  <div align="center"> ~ All about programming ~  </div>  </br></br>
-    <img style="float: ledt;" src="https://user456-ux.github.io/MSDN-downloads/blob/net.jfif">
-    <img style="float: ledt;" src="https://user456-ux.github.io/MSDN-downloads/blob/net10.jpg">
-    <img style="float: ledt;" src="https://user456-ux.github.io/MSDN-downloads/blob/ps_7.avif" width="318" height="218">
-    <img style="float: ledt;" src="https://user456-ux.github.io/MSDN-downloads/blob/nodejs.jpg">
+    <img style="float: ledt;" src="https://user456-ux.github.io/MSDN-downloads/blob/net.jfif" alt="img1 missing">
+    <img style="float: ledt;" src="https://user456-ux.github.io/MSDN-downloads/blob/net10.jpg" alt="img2 missing">
+    <img style="float: ledt;" src="https://user456-ux.github.io/MSDN-downloads/blob/ps_7.avif" alt="img3 missing" width="318" height="218">
+    <img style="float: ledt;" src="https://user456-ux.github.io/MSDN-downloads/blob/nodejs.jpg" alt="img4 missing">
     <!-- <td> <img style="float: right;" src="https://user456-ux.github.io/simple-demo/blob/profile.PNG"> </td> -->
   </tr>
 </table>
