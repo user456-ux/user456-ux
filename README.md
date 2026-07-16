@@ -6,13 +6,17 @@
 > [!NOTE]
 > | Repository | Description | Level | URL |
 > | --------- | --------- | --------- | --------- |
-> | User456-ux| User Profile|Beginner| NA
+> | User456-ux|User Profile|Beginner| NA
 > | MSDN-downloads|MSDN Public SQL Downloads |Beginner | [Download Demo](https://user456-ux.github.io/MSDN-downloads/)
 > | Next.js-react-beginnersguide|Intro for Beginners |Beginner| NA
 > | | | |
 > | Private-index-page|Password Protect Public Content |Intermediate| [Ajax Password](https://user456-ux.github.io/password-protect-ghStatic-page/)
 > | Prometheus|Python Code Complexity Analyzer |Intermediate | NA
 > | Ecommerce-Demo|Pure HTML, CSS & JS <br> (no obtuse front-end technologies e.g. React/Vue/Angular) |Intermediate |  [Ecommerce Demo](https://user456-ux.github.io/ecommerce-demo/)
+> | Self Hosted|Blazor .Net  - Showcasing interactive pages using pure server-side script generation with no reliance on embedded client-side javascript |Intermediate| [Blazor Interactivity Sample ](https://maxwell-portfolio.protoco.net//blazor_splash/indexTitle.htm)
+> | Azure Cloud|Blazor .Net  - Showcasing authentication, local browser storage and user session management |Intermediate| [Blazor Blog Sample](https://mytechblog-ghgwduagdzfcfrb8.canadacentral-01.azurewebsites.net/)
+> | | | <br>|
+> | Contact Details|Please email me for additional application demonstrations, contract opportunities or a copy of my current Resume|:email:|<a href="mailto:software.solutions@protoco.net?subject=free chocolate">Email Me</a>  |
 
 <hr/>
 
