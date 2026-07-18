@@ -8,7 +8,7 @@
 > so the user can follow along without the need for extensive e 3rd party library knowledge or
 > experience with advanced framework integrations.
 > 
-> My private repositories are more advanced and accessible by invitation only.
+> My private repositories are more advanced and accessible by invitation.
 
   
 > [!NOTE]
