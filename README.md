@@ -32,11 +32,15 @@
 <table style="border: none; width: 100%">
   <tr>
     <td>  <div align="center"> ~ All about programming ~  </div>  </br></br>
-    <img style="float: ledt;" src="https://user456-ux.github.io/MSDN-downloads/blob/net.jfif" alt="img1 missing">
-    <img style="float: ledt;" src="https://user456-ux.github.io/MSDN-downloads/blob/net10.jpg" alt="img2 missing">
-    <img style="float: ledt;" src="https://user456-ux.github.io/MSDN-downloads/blob/ps_7.avif" alt="img3 missing" width="318" height="218">
-    <img style="float: ledt;" src="https://user456-ux.github.io/MSDN-downloads/blob/nodejs.jpg" alt="img4 missing">
+    <img style="float: left;" src="https://user456-ux.github.io/MSDN-downloads/blob/net.jfif" alt="img1 missing" width="318" height="218">
+    <img style="float: left;" src="https://user456-ux.github.io/MSDN-downloads/blob/net10.jpg" alt="img2 missing" width="318" height="218">
+    <img style="float: left;" src="https://user456-ux.github.io/MSDN-downloads/blob/ps_7.avif" alt="img3 missing" width="318" height="218">
+    <img style="float: left;" src="https://user456-ux.github.io/MSDN-downloads/blob/nodejs.jpg" alt="img4 missing" width="318" height="218">
+    <img style="float: left;" src="https://user456-ux.github.io/MSDN-downloads/blob/react.jpg" alt="img4 missing" width="318" height="218">
+    <img style="float: left;" src="https://user456-ux.github.io/MSDN-downloads/blob/react2.jpg" alt="img4 missing" width="318" height="218">
+    <img style="float: left;" src="https://user456-ux.github.io/MSDN-downloads/blob/atom2.png" alt="img5 missing">
     <!-- <td> <img style="float: right;" src="https://user456-ux.github.io/simple-demo/blob/profile.PNG"> </td> -->
+  
   </tr>
 </table>
 
