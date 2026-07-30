@@ -1,6 +1,6 @@
 ###  <div align="center"> 🌎 This is my public repository intended for beginners looking to get started with GitHub Workflows, Actions, CI/CD and Application Programming. 🌎  </br></br>
 
-####  <div align="left"> Also, please feel free to view my $${\color{darkorange}\text{Application Portfolio}}$$ below </div>  </br>
+####  <div align="left"> Also, please feel free to view my $${\color{darkorange}\text{Application Portfolio}}$$ below. </div>  </br>
 
 :snowflake:     Best viewed in your browser's <i>dark</i> theme.
 <br/><br/>
