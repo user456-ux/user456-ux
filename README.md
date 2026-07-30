@@ -19,7 +19,7 @@
 > ||&nbsp;&nbsp;&nbsp;&nbsp; $${\color{green}\text{GitHub Pages < user456-ux.github.io >}}$$||
 > | User456-ux|User Profile||Beginner|
 > | MSDN-downloads|MSDN Public SQL Downloads |[link](https://github.com/user456-ux/MSDN-downloads/)|Beginner | [SQL Download](https://user456-ux.github.io/MSDN-downloads/)
-> | Next.js-react-beginnersguide|Getting Strated Intro |[link](https://github.com/user456-ux/next.js-react-beginnersguide/)|Beginner|
+> | Next.js-react-beginnersguide|Getting Started Intro |[link](https://github.com/user456-ux/next.js-react-beginnersguide/)|Beginner|
 > | Private-index-page|Password Protect Public Content |[link](https://github.com/user456-ux/password-protect-ghStatic-page/)|Intermediate| [Ajax Password](https://user456-ux.github.io/password-protect-ghStatic-page/)
 > | Prometheus|Python Code Complexity Analyzer |[link](https://github.com/user456-ux/prometheus/)|Intermediate | NA
 > | Ecommerce-Demo|Pure HTML, CSS & JS <br> (no obtuse front-end technologies e.g. React/Vue/Angular) |[link](https://github.com/user456-ux/ecommerce-demo)|Intermediate |  [Ecommerce](https://user456-ux.github.io/ecommerce-demo/)
