@@ -28,7 +28,7 @@
 > | Azure Cloud|Blazor .Net  - Showcasing authentication, local browser storage and user session management ||Intermediate| [Blazor Blog Sample](https://mytechblog-ghgwduagdzfcfrb8.canadacentral-01.azurewebsites.net/)
 > | Render Cloud|React - Showcasing authentication, authorization, forms and API back-end ||Intermediate| [Healthcare Portal](https://react-maxwell-1.onrender.com/)
 > | | | <br>|
-> | Contact Details|Please email me for additional application demonstrations, contract opportunities or a copy of my current Resume|:email:||<a href="mailto:software.solutions@protoco.net?subject=GitHub Correspondence">Email Me</a>  |
+> | Contact Details|Consulting, application demonstrations, training or resume copy|:email:||<a href="mailto:software.solutions@protoco.net?subject=GitHub Correspondence">Email Me</a>  |
 
 <hr/>
 
