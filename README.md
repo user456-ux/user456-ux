@@ -1,4 +1,6 @@
-##  <div align="center"> 🌎 This is my public repository intended for beginners looking to get started with GitHub Workflows, Actions, CI/CD and Application Programming. 🌎 </div>  </br>
+###  <div align="center"> 🌎 This is my public repository intended for beginners looking to get started with GitHub Workflows, Actions, CI/CD and Application Programming. 🌎  </br></br>
+
+####  <div align="left"> Also, please feel free to view my $${\color{darkorange}\text{Application Portfolio}}$$ below </div>  </br>
 
 :snowflake:     Best viewed in your browser's <i>dark</i> theme.
 <br/><br/>
@@ -12,21 +14,21 @@
 
   
 > [!NOTE]
-> | Repository | Description | Level | URL |
-> | --------- | --------- | --------- | --------- |
+> | Repository | Description | Type| Level | URL |
+> | --------- | --------- | --------- | --------- | --------- |
 > ||&nbsp;&nbsp;&nbsp;&nbsp; $${\color{green}\text{GitHub Pages < user456-ux.github.io >}}$$||
-> | User456-ux|User Profile|Beginner| NA
-> | MSDN-downloads|MSDN Public SQL Downloads |Beginner | [Download Demo](https://user456-ux.github.io/MSDN-downloads/)
-> | Next.js-react-beginnersguide|Intro for Beginners |Beginner| NA
-> | Private-index-page|Password Protect Public Content |Intermediate| [Ajax Password](https://user456-ux.github.io/password-protect-ghStatic-page/)
-> | Prometheus|Python Code Complexity Analyzer |Intermediate | NA
-> | Ecommerce-Demo|Pure HTML, CSS & JS <br> (no obtuse front-end technologies e.g. React/Vue/Angular) |Intermediate |  [Ecommerce Demo](https://user456-ux.github.io/ecommerce-demo/)
-> ||&nbsp;&nbsp;&nbsp;&nbsp; $${\color{green}\text{Personal Hosting  < protoco.net >}}$$||
-> | Self Hosted|Blazor .Net  - Showcasing interactive pages using pure server-side script generation with no reliance on embedded client-side javascript |Intermediate| [Blazor Interactivity Sample ](https://maxwell-portfolio.protoco.net//blazor_splash/indexTitle.htm)
-> | Azure Cloud|Blazor .Net  - Showcasing authentication, local browser storage and user session management |Intermediate| [Blazor Blog Sample](https://mytechblog-ghgwduagdzfcfrb8.canadacentral-01.azurewebsites.net/)
-> | Render Cloud|React - Showcasing authentication, authorization, forms and API back-end |Intermediate| [Healthcare Portal](https://react-maxwell-1.onrender.com/)
+> | User456-ux|User Profile||Beginner|
+> | MSDN-downloads|MSDN Public SQL Downloads |[link](https://github.com/user456-ux/MSDN-downloads/)|Beginner | [Download Demo](https://user456-ux.github.io/MSDN-downloads/)
+> | Next.js-react-beginnersguide|Getting Strated Intro |[link](https://github.com/user456-ux/next.js-react-beginnersguide/)|Beginner|
+> | Private-index-page|Password Protect Public Content |[link](https://github.com/user456-ux/password-protect-ghStatic-page/)|Intermediate| [Ajax Password](https://user456-ux.github.io/password-protect-ghStatic-page/)
+> | Prometheus|Python Code Complexity Analyzer |[link](https://github.com/user456-ux/prometheus/)|Intermediate | NA
+> | Ecommerce-Demo|Pure HTML, CSS & JS <br> (no obtuse front-end technologies e.g. React/Vue/Angular) |[link](https://github.com/user456-ux/ecommerce-demo)|Intermediate |  [Ecommerce Demo](https://user456-ux.github.io/ecommerce-demo/)
+> ||&nbsp;&nbsp;&nbsp;&nbsp; $${\color{darkorange}\text{Portfolio Blazor, React < protoco.net >}}$$||
+> | Self Hosted|Blazor .Net  - Showcasing interactive pages using pure server-side script generation with no reliance on embedded client-side javascript ||Intermediate| [Blazor Interactivity Sample ](https://maxwell-portfolio.protoco.net//blazor_splash/indexTitle.htm)
+> | Azure Cloud|Blazor .Net  - Showcasing authentication, local browser storage and user session management ||Intermediate| [Blazor Blog Sample](https://mytechblog-ghgwduagdzfcfrb8.canadacentral-01.azurewebsites.net/)
+> | Render Cloud|React - Showcasing authentication, authorization, forms and API back-end ||Intermediate| [Healthcare Portal](https://react-maxwell-1.onrender.com/)
 > | | | <br>|
-> | Contact Details|Please email me for additional application demonstrations, contract opportunities or a copy of my current Resume|:email:|<a href="mailto:software.solutions@protoco.net?subject=GitHub Correspondence">Email Me</a>  |
+> | Contact Details|Please email me for additional application demonstrations, contract opportunities or a copy of my current Resume|:email:||<a href="mailto:software.solutions@protoco.net?subject=GitHub Correspondence">Email Me</a>  |
 
 <hr/>
 
