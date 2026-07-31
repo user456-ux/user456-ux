@@ -24,9 +24,10 @@
 > | Prometheus|Python Code Complexity Analyzer |[link](https://github.com/user456-ux/prometheus/)|Intermediate | NA
 > | Ecommerce-Demo|Pure HTML, CSS & JS <br> (no obtuse front-end technologies e.g. React/Vue/Angular) |[link](https://github.com/user456-ux/ecommerce-demo)|Intermediate |  [Ecommerce](https://user456-ux.github.io/ecommerce-demo/)
 > ||&nbsp;&nbsp;&nbsp;&nbsp; $${\color{darkorange}\text{Portfolio Blazor, React < protoco.net >}}$$||
-> | Self Hosted|Blazor .Net  - Showcasing interactive pages using pure server-side script generation with no reliance on embedded client-side javascript ||Intermediate| [Blazor Interactivity](https://maxwell-portfolio.protoco.net//blazor_splash/indexTitle.htm)
-> | Azure Cloud|Blazor .Net  - Showcasing authentication, local browser storage and user session management ||Intermediate| [Blazor Blog](https://mytechblog-ghgwduagdzfcfrb8.canadacentral-01.azurewebsites.net/)
-> | Render Cloud|React - Showcasing authentication, authorization, forms and API back-end ||Intermediate| [Healthcare Portal](https://react-maxwell-1.onrender.com/)
+> | Self Hosted|--> Blazor .Net  - Showcasing interactive pages using pure server-side script generation with no reliance on embedded client-side javascript ||Intermediate| [Blazor Interactivity](https://maxwell-portfolio.protoco.net//blazor_splash/indexTitle.htm)
+> | Azure Cloud|--> Blazor .Net  - Showcasing authentication, local browser storage and user session management ||Intermediate| [Blazor Blog](https://mytechblog-ghgwduagdzfcfrb8.canadacentral-01.azurewebsites.net/)
+> | Render Cloud|--> React - Showcasing authentication, authorization, forms and API back-end ||Intermediate| [Healthcare Portal](https://react-maxwell-1.onrender.com/)
+> | Render Cloud|--> Angular - Showcasing authentication, authorization, forms and API back-end ||Intermediate| [Healthcare Portal](https://angular-maxwell-ts.onrender.com/)
 > | | | <br>|
 > | Contact Details|Consulting, application demonstrations, training or resume copy|:email:||<a href="mailto:software.solutions@protoco.net?subject=GitHub Correspondence">Email Me</a>  |
 
