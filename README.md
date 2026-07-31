@@ -23,7 +23,7 @@
 > | Private-index-page|Password Protect Public Content |[link](https://github.com/user456-ux/password-protect-ghStatic-page/)|Intermediate| [Ajax Password](https://user456-ux.github.io/password-protect-ghStatic-page/)
 > | Prometheus|Python Code Complexity Analyzer |[link](https://github.com/user456-ux/prometheus/)|Intermediate | NA
 > | Ecommerce-Demo|Pure HTML, CSS & JS <br> (no obtuse front-end technologies e.g. React/Vue/Angular) |[link](https://github.com/user456-ux/ecommerce-demo)|Intermediate |  [Ecommerce](https://user456-ux.github.io/ecommerce-demo/)
-> ||&nbsp;&nbsp;&nbsp;&nbsp; $${\color{darkorange}\text{Portfolio Blazor, React < protoco.net >}}$$||
+> ||&nbsp;&nbsp;&nbsp;&nbsp; $${\color{darkorange}\text{Portfolio - Blazor, React, Angular}}$$||
 > | Self Hosted|--> Blazor .Net  - Showcasing interactive pages using pure server-side script generation with no reliance on embedded client-side javascript ||Intermediate| [Blazor Interactivity](https://maxwell-portfolio.protoco.net//blazor_splash/indexTitle.htm)
 > | Azure Cloud|--> Blazor .Net  - Showcasing authentication, local browser storage and user session management ||Intermediate| [Blazor Blog](https://mytechblog-ghgwduagdzfcfrb8.canadacentral-01.azurewebsites.net/)
 > | Render Cloud|--> React - Showcasing authentication, authorization, forms and API back-end ||Intermediate| [Healthcare Portal](https://react-maxwell-1.onrender.com/)
