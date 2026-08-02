@@ -1,3 +1,5 @@
+<img src="https://user456-ux.github.io/MSDN-downloads/blob/header.svg" width="1000" height="30" alt="tech banner" />
+
 ###  <div align="center"> 🌎 Welcome to my public repository 🌎 
 This repo is intended for beginners looking to get started with GitHub Workflows, Actions, CI/CD and Application Programming.  </br></br>
 :snowflake:     Best viewed in your browser's <i>dark</i> theme.
@@ -18,6 +20,8 @@ This repo is intended for beginners looking to get started with GitHub Workflows
    <li>$${\color{green}\text{ Cloud Intregrations: Azure, AWS, Snowflake, Kafka Confluent, RabbitMQ }}$$ </li>
    <li>$${\color{green}\text{ Unit Testing:        XUnit, NUnit, MSTest (VS IDE Integrated), BDD (Cucumber, Reqnroll) }}$$ </li></ul>
   </details>   
+
+<br/><br/>
 
 > [!TIP]
 >Please note: these public Code Samples are $${\color{green}\text{intentionally kept simple}}$$
