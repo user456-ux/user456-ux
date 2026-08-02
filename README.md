@@ -13,12 +13,22 @@ This repo is intended for beginners looking to get started with GitHub Workflows
 
 <details>
   <summary><font color="blue"><b>About Me</b></font></summary>
-   <ul><li>$${\color{green}\text{ Software Languages:  F\#, C\#, Python, SQL }}$$ </li>
-   <li>$${\color{green}\text{ Methodolgies:        Functional Programming, AI, ML, Data Science }}$$ </li>
-   <li>$${\color{green}\text{  Blazor, Angular, React }}$$ </li>
-   <li>$${\color{green}\text{ Back-end:            .Net Core, Node.js }}$$ </li>
-   <li>$${\color{green}\text{ Cloud Intregrations: Azure, AWS, Snowflake, Kafka Confluent, RabbitMQ }}$$ </li>
-   <li>$${\color{green}\text{ Unit Testing:        XUnit, NUnit, MSTest (VS IDE Integrated), BDD (Cucumber, Reqnroll) }}$$ </li></ul>
+   <ul><li>$${\color{green}\text{ Software Languages: }}$$
+      $${\color{green}\text{  F\#, C\#, Python, SQL, Powershell7, Conda }}$$ </li>
+   <li>$${\color{green}\text{ Methodolgies: }}$$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      $${\color{green}\text{ Functional Programming, AI, ML, Data Science: }}$$
+    
+   <li>$${\color{green}\text{ Front-end: }}$$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        $${\color{green}\text{ Blazor, Angular, React }}$$ </li>
+   
+   <li>$${\color{green}\text{ Back-end: }}$$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        $${\color{green}\text{ .Net Core, Node.js }}$$ </li>
+   
+   <li>$${\color{green}\text{ Cloud Intregrations: }}$$ 
+         $${\color{green}\text{ Azure, AWS, Snowflake, Kafka Confluent, RabbitMQ }}$$ </li>
+   
+   <li>$${\color{green}\text{ Unit Testing: }}$$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         $${\color{green}\text{  XUnit, NUnit, MSTest (VS IDE Integrated), BDD (Cucumber, Reqnroll) }}$$ </li></ul>
   </details>   
 
 <br/><br/>
