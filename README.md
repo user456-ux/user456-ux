@@ -1,9 +1,23 @@
-###  <div align="center"> 🌎 This is my public repository intended for beginners looking to get started with GitHub Workflows, Actions, CI/CD and Application Programming. 🌎  </br></br>
-
-####  <div align="left"> Also, please feel free to view my $${\color{darkorange}\text{Application Portfolio}}$$ below. </div>  </br>
-
+###  <div align="center"> 🌎 Welcome to my public repository 🌎 
+This repo is intended for beginners looking to get started with GitHub Workflows, Actions, CI/CD and Application Programming.  </br></br>
 :snowflake:     Best viewed in your browser's <i>dark</i> theme.
 <br/><br/>
+
+<details>
+<summary>Table of Contents</summary>
+ <ul><li>$${\color{green}\text{ Sample code to get started with GitHub Pages and Workflows }}$$ </li>
+ <li>$${\color{green}\text{ Application runtime samples. No code provided by default }}$$ </li></ul>
+</details>
+
+<details>
+  <summary><font color="blue"><b>About Me</b></font></summary>
+   <ul><li>$${\color{green}\text{ Software Languages:  F\#, C\#, Python, SQL }}$$ </li>
+   <li>$${\color{green}\text{ Methodolgies:        Functional Programming, AI, ML, Data Science }}$$ </li>
+   <li>$${\color{green}\text{  Blazor, Angular, React }}$$ </li>
+   <li>$${\color{green}\text{ Back-end:            .Net Core, Node.js }}$$ </li>
+   <li>$${\color{green}\text{ Cloud Intregrations: Azure, AWS, Snowflake, Kafka Confluent, RabbitMQ }}$$ </li>
+   <li>$${\color{green}\text{ Unit Testing:        XUnit, NUnit, MSTest (VS IDE Integrated), BDD (Cucumber, Reqnroll) }}$$ </li></ul>
+  </details>   
 
 > [!TIP]
 >Please note: these public Code Samples are $${\color{green}\text{intentionally kept simple}}$$
@@ -12,16 +26,17 @@
 > 
 > My private repositories are more advanced and accessible by invitation.
 
+####  <div align="left"> Also, please feel free to view my $${\color{darkorange}\text{Application Portfolio}}$$ below. </div>  </br>
   
 > [!NOTE]
 > | Repository | Description | Type| Level | Demo |
 > | --------- | --------- | --------- | --------- | --------- |
 > ||&nbsp;&nbsp;&nbsp;&nbsp; $${\color{green}\text{GitHub Pages < user456-ux.github.io >}}$$||
 > | User456-ux|User Profile||Beginner|
-> | MSDN-downloads|MSDN Public SQL Downloads |[link](https://github.com/user456-ux/MSDN-downloads/)|Beginner | [SQL Download](https://user456-ux.github.io/MSDN-downloads/)
-> | Next.js-react-beginnersguide|Getting Started Intro |[link](https://github.com/user456-ux/next.js-react-beginnersguide/)|Beginner|
-> | Private-index-page|Password Protect Public Content |[link](https://github.com/user456-ux/password-protect-ghStatic-page/)|Intermediate| [Ajax Password](https://user456-ux.github.io/password-protect-ghStatic-page/)
-> | Prometheus|Python Code Complexity Analyzer |[link](https://github.com/user456-ux/prometheus/)|Intermediate | NA
+> | MSDN-downloads|MSDN Public SQL Downloads |[Repo](https://github.com/user456-ux/MSDN-downloads/)|Beginner | [SQL Download](https://user456-ux.github.io/MSDN-downloads/)
+> | Next.js-react-beginnersguide|Getting Started Intro |[Repo](https://github.com/user456-ux/next.js-react-beginnersguide/)|Beginner|
+> | Private-index-page|Password Protect Public Content |[Repo](https://github.com/user456-ux/password-protect-ghStatic-page/)|Intermediate| [Ajax Password](https://user456-ux.github.io/password-protect-ghStatic-page/)
+> | Prometheus|Python Code Complexity Analyzer |[Repo](https://github.com/user456-ux/prometheus/)|Intermediate | NA
 > | Ecommerce-Demo|Pure HTML, CSS & JS <br> (no obtuse front-end technologies e.g. React/Vue/Angular) |[link](https://github.com/user456-ux/ecommerce-demo)|Intermediate |  [Ecommerce](https://user456-ux.github.io/ecommerce-demo/)
 > ||&nbsp;&nbsp;&nbsp;&nbsp; $${\color{darkorange}\text{Portfolio - Blazor, React, Angular}}$$||
 > | Self Hosted|--> Blazor .Net  - Showcasing interactive pages using pure server-side script generation with no reliance on embedded client-side javascript ||Intermediate| [Blazor Interactivity](https://maxwell-portfolio.protoco.net//blazor_splash/indexTitle.htm)
